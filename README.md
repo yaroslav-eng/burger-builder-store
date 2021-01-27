@@ -1,3 +1,6 @@
+# The to-do website URL, which is hosted on AWS
+http://burger-builder-store-app.s3-website.us-east-2.amazonaws.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
